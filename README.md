@@ -4,7 +4,7 @@
 
 ### osTicket (Help Desk Ticketing System)
 
-- [OSTicket Deployment on Azure VM](https://github.com/YOUR-USERNAME/REPO-NAME)
+[OSTicket Deployment on Azure VM](https://github.com/titusbanks/osticket-azure-deployment)
 
 This project walks through deploying OSTicket on a Windows 10 virtual machine using Microsoft Azure. It includes step-by-step configuration of IIS, PHP, MySQL, and OSTicket with full screenshot documentation.
 
